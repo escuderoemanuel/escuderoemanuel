@@ -1,12 +1,11 @@
 <div align="center" width="350">
    <img align="center" width="160" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
-   <h1 align="center">¡Hola 👋 Soy <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'><span style="color:rgb(0, 171, 240);">Emanuel</span></a></h1>
-<h2 align="center">Desarrollador FrontEnd 👨🏻‍💻 <h2>
+   <h1 align="center">¡Hola 👋 Soy <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>Emanuel</a></h1>
+   <h2 align="center">Desarrollador FrontEnd 👨🏻‍💻 <h2>
 </div>
-<h3 align="center">¡Revisa mi contenido 👇!</h3>
 <h4> 🤓 Lenguajes y Herramientas </h4>
 <br />
-<p style='display:flex;'>
+<p style="display: flex;">
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>
    <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
    <img src='https://i.ibb.co/mDNKpgM/css.png' style='width: 50px;'/>

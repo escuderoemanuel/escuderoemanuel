@@ -8,7 +8,7 @@
    <h1>
 </p>
 
-<p align="center">¡Revisa mi contenido 👇!</p>
+<h4 align="center">¡Revisa mi contenido 👇!</h4>
 
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,7 +34,7 @@
 
 ### 📂 Proyectos
 <ul>
-   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar [Proyecto Real] </a></li>
+   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a> [Proyecto Real]</li>
 </ul>
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,9 +10,9 @@
 <h4 align="center">¡Revisa mi contenido 👇!</h4>
 
 <br />
-### 🤓 Lenguajes y Herramientas
-
 <br />
+<h4> 🤓 Lenguajes y Herramientas </h4>
+
 <br />
 <p style='display:flex;'>
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>
@@ -33,8 +33,9 @@
     <img src='https://i.ibb.co/nf2qtnw/ps2.png' style='width: 50px;'/>
 </p>
 
-
-### 📂 Proyectos
+<br />
+<br />
+<h4> 📂 Proyectos </h4>
 <ul>
    <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Proyecto Real [ ReactJs ]</li>
    <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> Portfolio FullStack</a>: Proyecto Portfolio Argentina Programa [ Angular, MySQL, Java, Springboot ]</li>

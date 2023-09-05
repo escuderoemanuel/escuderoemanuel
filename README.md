@@ -13,7 +13,7 @@
 
 <br />
  
-[![HTML5](https://i.ibb.co/VH4bp5Y/html.png)]
+[HTML5](https://i.ibb.co/VH4bp5Y/html.png)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![SASS]()

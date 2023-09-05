@@ -1,6 +1,6 @@
 <p align="center" width="350">
    <img align="center" width="200" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
-   <h1 align="center" style="font-weight: lighter"> ¡Hola 👋 Soy 
+   <h1 align="center" style="font-weight:300"> ¡Hola 👋 Soy 
    <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          <span style="color:rgb(0, 171, 240)">Emanuel</span></a>!
    </h1>

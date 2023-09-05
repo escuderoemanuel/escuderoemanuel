@@ -2,8 +2,8 @@
    <img align="center" width="200" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
    <h1 align="center"> ¡Hola 👋 Soy 
    <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
-         <strong><span style="color:rgb(0, 171, 240)">Emanuel</span><strong>!
-   </a>
+         <span style="color:rgb(0, 171, 240)"> Emanuel</span>
+   </a>!
    </h1>
    <h2 align="center">[ Desarrollador FrontEnd ] 👨🏻‍💻 <h2>
 </p>

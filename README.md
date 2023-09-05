@@ -49,7 +49,7 @@
 <h4>Contáctame! 👇</h4>
    <p>📨 escudero.mdz@gmail.com</p>
    <p>📲 +54 9 261 2061160</p>
-   <p style='align-items:center;'> <img src='https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png' style='width: 16px;'>
+   <p style='align-items:center;'> <img src='https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png' style='width: 18px;'>
       <a href='https://www.linkedin.com/in/emanuel-escudero/' target='_blank' rel='noopener noreferrer'>
          LinkedIn
       </a>

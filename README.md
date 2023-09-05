@@ -2,8 +2,7 @@
    <img align="center" width="200" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
    <h2 align="center">¡Hola 👋!</h2>
 </p>
-# Soy [Emanuel] (https://emanuelescudero.ar), Desarrollador FrontEnd 👨🏻‍💻
-
+# <p align="center">Soy [Emanuel](https://emanuelescudero.ar), Desarrollador FrontEnd 👨🏻‍💻 </p>
 <p align="center"><br />¡Revisa mi contenido 👇!</p>
 
 <!--

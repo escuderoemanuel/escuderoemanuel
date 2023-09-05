@@ -47,7 +47,7 @@
 
 <br />
 <h4>Contáctame! 👇</h4>
-<a href="mailto:correo@example.com">Enviar correo</a>
+
    
    <img src="https://i.ibb.co/2nK1zx0/Gmail-29991.png" style="width: 18px; display: inline-block;">
         <a href="mailto:escudero.mdz@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">

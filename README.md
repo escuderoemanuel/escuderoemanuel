@@ -1,5 +1,5 @@
 <p align="center" width="350">
-   <img align="center" width="200" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
+   <img align="center" width="180" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
    <h1 align="center">¡Hola 👋 Soy 
    <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          <span style="color:rgb(0, 171, 240)">Emanuel</span></a>!
@@ -49,4 +49,7 @@
 <h4>Contáctame! 👇</h4>
    <p>📨 escudero.mdz@gmail.com</p>
    <p>📲 +54 9 261 2061160</p>
-   <p>🌐<a href='https://www.linkedin.com/in/emanuel-escudero/' rel='noopener noreferrer'> LinkedIn</a></p>
+   <p>🌐<a href='https://www.linkedin.com/in/emanuel-escudero/' target='_blank' rel='noopener noreferrer'> LinkedIn</a></p>
+    <a
+              href='https://www.linkedin.com/in/emanuelescudero/'              rel='noopener noreferrer'>
+              <i className='iSocial bx bxl-linkedin bx-border-circle bx-sm'></i>

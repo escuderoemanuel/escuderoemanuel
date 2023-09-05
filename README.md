@@ -1,14 +1,14 @@
 <p align="center" width="350">
    <img align="center" width="200" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
    <h2 align="center">¡Hola 👋!</h2>
-   <h1> Soy 
+   <h1 align="center"> Soy 
       <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
-         <span style="color:rgb(0, 171, 240)">Emanuel</span>
+         <strong><span style="color:rgb(0, 171, 240)">Emanuel</span><strong>
       </a>, Desarrollador FrontEnd 👨🏻‍💻
    <h1>
-
 </p>
-<p align="center"><br />¡Revisa mi contenido 👇!</p>
+
+<h2 align="center">¡Revisa mi contenido 👇!</h2>
 
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

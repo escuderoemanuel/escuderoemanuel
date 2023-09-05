@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+## I am [Emanuel](https://emanuelescudero.ar) 
+###a Frontend Developer!
+
 
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

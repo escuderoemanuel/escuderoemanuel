@@ -9,19 +9,18 @@
 
 <h4 align="center">¡Revisa mi contenido 👇!</h4>
 
-### 👨‍💻 Lenguajes y Herramientas
+### 🤓 Lenguajes y Herramientas
 
 <br />
-
 <p style='display:flex;'>
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/mDNKpgM/css.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/TmwQPdB/bootstrap.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/7jV8nQy/sass-icon-130835.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/TW6ChMh/js.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VNbg3FV/typescript.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/CHZkf9M/reactjs.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/mDNKpgM/css.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/TmwQPdB/bootstrap.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/7jV8nQy/sass-icon-130835.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/TW6ChMh/js.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/VNbg3FV/typescript.png' style='width: 50px;'/>
+   <img src='https://i.ibb.co/CHZkf9M/reactjs.png' style='width: 50px;'/>
    <img src='https://i.ibb.co/rQpw3fM/angular.png' style='width: 50px;'/>
    <img src='https://i.ibb.co/mSRmnRV/mysql.png' style='width: 50px;'/>
    <img src='https://i.ibb.co/5ByKx1H/Git.png' style='width: 50px;'/>
@@ -32,6 +31,11 @@
     <img src='https://i.ibb.co/nf2qtnw/ps2.png' style='width: 50px;'/>
 </p>
 
+
+### 📂 Proyectos
+<ul>
+   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar [Proyecto Real] </a></li>
+</ul>
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
    <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          <span style="color:rgb(0, 171, 240)">Emanuel</span></a>!
    </h1>
-   <h2 align="center">[ Desarrollador FrontEnd ] 👨🏻‍💻 <h2>
+   <h2 align="center" style="font-weight:lighter">[ Desarrollador FrontEnd ] 👨🏻‍💻 <h2>
 </p>
 
 <h4 align="center">¡Revisa mi contenido 👇!</h4>

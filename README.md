@@ -1,7 +1,10 @@
-## Hi there 👋
-## I am [Emanuel](https://emanuelescudero.ar) 
-###a Frontend Developer!
+<p align="center" width="350">
+   <img align="center" width="200" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
+   <h2 align="center">¡Hola 👋!</h2>
+   <h1>Soy <strong>[Emanuel]</strong>, Desarrollador FrontEnd 👨🏻‍💻</h1>
+</p>
 
+<p align="center"><br />¡Revisa mi contenido 👇!</p>
 
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

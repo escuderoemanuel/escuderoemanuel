@@ -34,6 +34,7 @@
 <br />
 <h4> 📂 Proyectos </h4>
 <ul>
+   <li> <a href='https://emanuelescudero.ar' target='_blank' rel='noopener noreferrer'> Porfolio Personal </a>: Mi Sitio Web Personal [ ReactJs ]</li>
    <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Proyecto Real [ ReactJs ]</li>
    <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> Portfolio FullStack</a>: Proyecto Portfolio Argentina Programa [ Angular, MySQL, Java, Springboot ]</li>
    <li> <a href='https://retro-place-store.vercel.app/' target='_blank' rel='noopener noreferrer'> RetroPlace Store</a>: Tienda Online [ ReactJs ]</li>
@@ -42,19 +43,10 @@
    <li> <a href='https://escuderoemanuel.github.io/EDGuitars/' target='_blank' rel='noopener noreferrer'> ED Guitars</a>: Sitio Profesional [ HTML, CSS, Bootstrap ]</li>
    <li> <a href='https://escuderoemanuel.github.io/FC-AsesorasContables/' rel='noopener noreferrer'> Asesoras Contables</a>: Sitio Profesional [ HTML, CSS ]</li>
    <li> <a href='https://github.com/escuderoemanuel/GestionSaludDB' rel='noopener noreferrer'> Gestión Salud DB</a>: Proyecto Base de Datos [ SQL, MySQL Workbench ]</li>
-
 </ul>
-<!--
-**escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<h4>Contáctame! 👇</h4>
+   <p>📨 escudero.mdz@gmail.com</p>
+   <p>📲 +54 9 261 2061160</p>
+   <p>🌐<a href='https://www.linkedin.com/in/emanuel-escudero/' rel='noopener noreferrer'> LinkedIn</a></p>

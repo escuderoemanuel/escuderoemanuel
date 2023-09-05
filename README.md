@@ -10,9 +10,7 @@
 <h4 align="center">¡Revisa mi contenido 👇!</h4>
 
 <br />
-<br />
 <h4> 🤓 Lenguajes y Herramientas </h4>
-
 <br />
 <p style='display:flex;'>
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>
@@ -33,7 +31,6 @@
     <img src='https://i.ibb.co/nf2qtnw/ps2.png' style='width: 50px;'/>
 </p>
 
-<br />
 <br />
 <h4> 📂 Proyectos </h4>
 <ul>

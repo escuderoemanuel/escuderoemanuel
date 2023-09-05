@@ -1,15 +1,14 @@
-<p align="center" width="350">
+<div align="center" width="350">
    <img align="center" width="180" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
    <h1 align="center">¡Hola 👋 Soy 
    <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          <span style="color:rgb(0, 171, 240)">Emanuel</span></a>!
    </h1>
    <h2 align="center">[ Desarrollador FrontEnd ] 👨🏻‍💻 <h2>
-</p>
+</div>
 
-<h4 align="center">¡Revisa mi contenido 👇!</h4>
+<h3 align="center">¡Revisa mi contenido 👇!</h3>
 
-<br />
 <h4> 🤓 Lenguajes y Herramientas </h4>
 <br />
 <p style='display:flex;'>
@@ -48,11 +47,9 @@
 <br />
 <h4>Contáctame! 👇</h4>
 
-   
+   <div style="text-align: center; padding: 0;">
    <img src="https://i.ibb.co/2nK1zx0/Gmail-29991.png" style="width: 18px; display: inline-block;">
-        <a href="mailto:escudero.mdz@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-         Gmail
-        </a>
+        <a href="mailto:escudero.mdz@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">Gmail</a>
    </div>
 
    <div style="text-align: center; padding: 0;">
@@ -62,7 +59,6 @@
         </a>
    </div>
 
-  
    <div style="text-align: center; padding: 0;">
      <img src="https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png" style="width: 18px; display: inline-block;">
         <a href="https://www.linkedin.com/in/emanuel-escudero/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">

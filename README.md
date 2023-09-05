@@ -3,12 +3,12 @@
    <h1 align="center"> ¡Hola 👋! </h1>
    <h1 align="center"> Soy 
       <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
-         <strong><span style="color:rgb(0, 171, 240)">Emanuel</span><strong>
+         <strong><span style="color:rgb(0, 171, 240)">[Emanuel]</span><strong>
       </a>, Desarrollador FrontEnd 👨🏻‍💻
    <h1>
 </p>
 
-<h5 align="center">¡Revisa mi contenido 👇!</h5>
+<h6 align="center">¡Revisa mi contenido 👇!</h6>
 
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

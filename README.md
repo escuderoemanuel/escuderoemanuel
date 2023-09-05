@@ -12,13 +12,13 @@
 ### 👨‍💻 Lenguajes y Herramientas
 
 <br />
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/mDNKpgM/css.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
-<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>
+<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'  />
+<img src='https://i.ibb.co/mDNKpgM/css.png' style='width: 50px;  display: flex;'/>
+<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
+<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
+<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
+<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
+<img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
 
 
 <!--

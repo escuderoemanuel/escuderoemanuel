@@ -34,7 +34,14 @@
 
 ### 📂 Proyectos
 <ul>
-   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a> [Proyecto Real]</li>
+   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Proyecto Real [ReactJs]</li>
+   <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> Portfolio FullStack</a>: Proyecto Portfolio Argentina Programa [Angular, MySQL, Java, Springboot]</li>
+   <li> <a href='https://retro-place-store.vercel.app/' target='_blank' rel='noopener noreferrer'> RetroPlace Store</a>: Tienda Online [ReactJs]</li>
+   <li> <a href='https://escuderoemanuel.github.io/KPREM-ArteGrafico/' target='_blank' rel='noopener noreferrer'> KPREM Arte Gráfico</a>: Tienda Online [JavaScript Vanilla]</li>
+   <li> <a href='https://escuderoemanuel.github.io/MahoArcaOltra/' target='_blank' rel='noopener noreferrer'> Maho Arca Oltra</a>: Sitio Web Profesional [JavaScipt Vanilla]</li>
+   <li> <a href='https://escuderoemanuel.github.io/EDGuitars/' target='_blank' rel='noopener noreferrer'> ED Guitars</a>: Sitio Profesional [HTML, CSS, Bootstrap]</li>
+   <li> <a href='https://escuderoemanuel.github.io/FC-AsesorasContables/' rel='noopener noreferrer'> Asesoras Contables</a>: Sitio Profesional [HTML, CSS]</li>
+
 </ul>
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

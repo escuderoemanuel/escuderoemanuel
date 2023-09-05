@@ -47,18 +47,28 @@
 
 <br />
 <h4>Contáctame! 👇</h4>
-   <div style="text-align: center; padding: 0;">
-   <p>📨 escudero.mdz@gmail.com</p>
+<a href="mailto:correo@example.com">Enviar correo</a>
+   
+   <img src="https://i.ibb.co/2nK1zx0/Gmail-29991.png" style="width: 18px; display: inline-block;">
+        <a href="mailto:escudero.mdz@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+         Gmail
+        </a>
    </div>
-         <div style="text-align: center; padding: 0;">
-   <p>📲 +54 9 261 2061160</p>
-         </div>
+
    <div style="text-align: center; padding: 0;">
-  <img src="https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png" style="width: 18px; display: inline-block;">
-  <a href="https://www.linkedin.com/in/emanuel-escudero/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    LinkedIn
-  </a>
-</div>
+     <img src="https://i.ibb.co/Z6TZgYM/Whatsapp-37229.png" style="width: 18px; display: inline-block;">
+        <a href="https://wa.me/5492612061160" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+         Whatsapp
+        </a>
+   </div>
+
+  
+   <div style="text-align: center; padding: 0;">
+     <img src="https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png" style="width: 18px; display: inline-block;">
+        <a href="https://www.linkedin.com/in/emanuel-escudero/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+         LinkedIn
+        </a>
+   </div>
 
    
 

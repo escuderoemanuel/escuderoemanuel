@@ -50,6 +50,6 @@
    <p>📨 escudero.mdz@gmail.com</p>
    <p>📲 +54 9 261 2061160</p>
    <p>🌐<a href='https://www.linkedin.com/in/emanuel-escudero/' target='_blank' rel='noopener noreferrer'> LinkedIn</a></p>
-    <a
-              href='https://www.linkedin.com/in/emanuelescudero/'              rel='noopener noreferrer'>
-              <i className='iSocial bx bxl-linkedin bx-border-circle bx-sm'></i>
+    <a href='https://www.linkedin.com/in/emanuelescudero/'              rel='noopener noreferrer'>
+        PRUEBA      <i className='iSocial bx bxl-linkedin bx-border-circle bx-sm'></i>
+    </a>

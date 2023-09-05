@@ -12,6 +12,7 @@
 ### 👨‍💻 Lenguajes y Herramientas
 
 <br />
+<p style='display:flex;'>
 <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'  />
 <img src='https://i.ibb.co/mDNKpgM/css.png' style='width: 50px;  display: flex;'/>
 <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
@@ -19,7 +20,7 @@
 <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
 <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
 <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;  display: flex;'/>
-
+</p>
 
 <!--
 **escuderoemanuel/escuderoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,8 +9,10 @@
 
 <h4 align="center">¡Revisa mi contenido 👇!</h4>
 
+<br />
 ### 🤓 Lenguajes y Herramientas
 
+<br />
 <br />
 <p style='display:flex;'>
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>

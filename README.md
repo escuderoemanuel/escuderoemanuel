@@ -36,6 +36,7 @@
    <li> <a href='https://escuderoemanuel.github.io/EDGuitars/' target='_blank' rel='noopener noreferrer'> ED Guitars</a>: Sitio Profesional [ HTML, CSS, Bootstrap ]</li>
    <li> <a href='https://escuderoemanuel.github.io/FC-AsesorasContables/' rel='noopener noreferrer'> Asesoras Contables</a>: Sitio Profesional [ HTML, CSS ]</li>
    <li> <a href='https://github.com/escuderoemanuel/GestionSaludDB' rel='noopener noreferrer'> Gestión Salud DB</a>: Proyecto Base de Datos [ SQL, MySQL Workbench ]</li>
+   <li> <a href='https://emanuel-weatherapp.netlify.app/' rel='noopener noreferrer'> WeatherApp</a>: App del Clima [ ReactJS, Netlify ]</li>
 </ul>
 
 <br />

@@ -30,7 +30,7 @@
 </p>
 
 <br />
-<h4> 📂 Proyectos </h4>
+<h4> 📂 Algunos Proyectos </h4>
 <ul>
    <li> <a href='https://emanuelescudero.ar' target='_blank' rel='noopener noreferrer'> Porfolio Personal </a>: Mi Sitio Web Personal [ ReactJs ]</li>
    <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Proyecto Real [ ReactJs ]</li>

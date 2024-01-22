@@ -1,14 +1,14 @@
 <div align="center" width="350">
    <img align="center" width="140" src="https://i.ibb.co/1LG0MR7/logo-Foto2023.png" />
-   <h1 align="center">¡Hola 👋 Soy 
+   <h1 align="center">¡Hi 👋 I'm 
       <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          Emanuel
       </a>
    </h1>
-   <h2 align="center">Desarrollador FrontEnd 👨🏻‍💻<h2>
+   <h2 align="center">FrontEnd Developer 👨🏻‍💻<h2>
 </div>
       
-<h4> 🤓 Lenguajes y Herramientas </h4>
+<h4> 🤓 Programming Language & Tools </h4>
 <br />
 <p style="display: flex;">
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>
@@ -30,24 +30,26 @@
 </p>
 
 <br />
-<h4> 📂 Algunos Proyectos </h4>
+<h4> 📂 Some of my Projects </h4>
 <ul>
-   <li> <a href='https://emanuelescudero.ar' target='_blank' rel='noopener noreferrer'> Porfolio Personal </a>: Mi Sitio Web Personal [ ReactJs ]</li>
-   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Proyecto Real [ ReactJs ]</li>
-   <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> Portfolio FullStack</a>: Proyecto Portfolio Argentina Programa [ Angular, MySQL, Java, Springboot ]</li>
-   <li> <a href='https://retro-place-store.vercel.app/' target='_blank' rel='noopener noreferrer'> RetroPlace Store</a>: Tienda Online [ ReactJs ]</li>
-   <li> <a href='https://escuderoemanuel.github.io/KPREM-ArteGrafico/' target='_blank' rel='noopener noreferrer'> KPREM Arte Gráfico</a>: Tienda Online [ JavaScript Vanilla ]</li>
-   <li> <a href='https://escuderoemanuel.github.io/MahoArcaOltra/' target='_blank' rel='noopener noreferrer'> Maho Arca Oltra</a>: Sitio Web Profesional [ JavaScipt Vanilla ]</li>
-   <li> <a href='https://escuderoemanuel.github.io/EDGuitars/' target='_blank' rel='noopener noreferrer'> ED Guitars</a>: Sitio Profesional [ HTML, CSS, Bootstrap ]</li>
-   <li> <a href='https://escuderoemanuel.github.io/FC-AsesorasContables/' rel='noopener noreferrer'> Asesoras Contables</a>: Sitio Profesional [ HTML, CSS ]</li>
-   <li> <a href='https://github.com/escuderoemanuel/GestionSaludDB' rel='noopener noreferrer'> Gestión Salud DB</a>: Proyecto Base de Datos [ SQL, MySQL Workbench ]</li>
-  <li> <a href='https://emanuel-moviesearch.netlify.app/' rel='noopener noreferrer'> MovieSearch!</a>: Buscador de Películas [ ReactJS, Netlify ]</li>
-  <li> <a href='https://emanuel-weatherapp.netlify.app/' rel='noopener noreferrer'> WeatherApp</a>: App del Clima [ ReactJS, Netlify ]</li>
-   <li> <a href='https://emanuel-calculator.netlify.app/' rel='noopener noreferrer'> Calculator!</a>: Calculadora [ ReactJS, Netlify ]</li>
+   <li> <a href='https://emanuelescudero.ar' target='_blank' rel='noopener noreferrer'> Porfolio </a>: Mi Personal Website [ ReactJs ]</li>
+   <li> <a href='https://bim.ar' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Real Project [ ReactJs ]</li>
+   <li> <a href='https://tateti-vs-machine.netlify.app/' target='_blank' rel='noopener noreferrer'> TaTeTi vs Machine </a>: Online Game [ ReactJs ]</li>
+   <li> <a href='https://emanuel-tasks.netlify.app/' target='_blank' rel='noopener noreferrer'> MyTaskApp </a>: Task List App [ ReactJs ]</li>
+   <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> FullStack Portfolio</a>: Portfolio Project made for Argentina Programa [ Angular, MySQL, Java, Springboot ]</li>
+   <li> <a href='https://retro-place-store.vercel.app/' target='_blank' rel='noopener noreferrer'> RetroPlace Store</a>: Online Store [ ReactJs ]</li>
+   <li> <a href='https://escuderoemanuel.github.io/KPREM-ArteGrafico/' target='_blank' rel='noopener noreferrer'> KPREM Arte Gráfico</a>: Online Store [ JavaScript Vanilla ]</li>
+   <li> <a href='https://escuderoemanuel.github.io/MahoArcaOltra/' target='_blank' rel='noopener noreferrer'> Maho Arca Oltra</a>: Professional Website made for Maho Arca Oltra [ JavaScipt Vanilla ]</li>
+   <li> <a href='https://escuderoemanuel.github.io/EDGuitars/' target='_blank' rel='noopener noreferrer'> ED Guitars</a>: Professional Website made for Daniel Escudero [ HTML, CSS, Bootstrap ]</li>
+   <li> <a href='https://escuderoemanuel.github.io/FC-AsesorasContables/' rel='noopener noreferrer'> Asesoras Contables</a>: Professional Website [ HTML, CSS ]</li>
+   <li> <a href='https://github.com/escuderoemanuel/GestionSaludDB' rel='noopener noreferrer'> Gestión Salud DB</a>: Data Base Project [ SQL, MySQL Workbench ]</li>
+  <li> <a href='https://emanuel-moviesearch.netlify.app/' rel='noopener noreferrer'> MovieSearch!</a>: Movies Search App [ ReactJS, Netlify ]</li>
+  <li> <a href='https://emanuel-weatherapp.netlify.app/' rel='noopener noreferrer'> WeatherApp</a>: Weather App [ ReactJS, Netlify ]</li>
+   <li> <a href='https://emanuel-calculator.netlify.app/' rel='noopener noreferrer'> Calculator!</a>: Basic Calculator [ ReactJS, Netlify ]</li>
 </ul>
 
 <br />
-<h4>Contáctame! 👇</h4>
+<h4>Contact Me! 👇</h4>
 
    <div style="text-align: center; padding: 0;">
    <img src="https://i.ibb.co/2nK1zx0/Gmail-29991.png" style="width: 18px; display: inline-block;">

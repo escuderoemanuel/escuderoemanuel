@@ -8,7 +8,7 @@
    <h2 align="center">FrontEnd Developer 👨🏻‍💻<h2>
 </div>
       
-<h4> 🤓 Programming Language & Tools </h4>
+<h4> 🤓 Programming Languages & Tools </h4>
 <br />
 <p style="display: flex;">
    <img src='https://i.ibb.co/zHqNLgF/vsc.png' style='width: 50px;'/>

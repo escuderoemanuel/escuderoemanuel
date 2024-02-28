@@ -39,7 +39,7 @@
    <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> FullStack Portfolio</a>: Portfolio Project made for Argentina Programa [ Angular, MySQL, Java, Springboot ]</li>
    <li> <a href='https://retro-place-store.vercel.app/' target='_blank' rel='noopener noreferrer'> RetroPlace Store</a>: Online Store [ ReactJs ]</li>
    <li> <a href='https://escuderoemanuel.github.io/KPREM-ArteGrafico/' target='_blank' rel='noopener noreferrer'> KPREM Arte Gráfico</a>: Online Store [ JavaScript Vanilla ]</li>
-   <li> <a href='https://escuderoemanuel.github.io/MahoArcaOltra/' target='_blank' rel='noopener noreferrer'> Maho Arca Oltra</a>: Professional Website made for Maho Arca Oltra [ JavaScipt Vanilla ]</li>
+   <li> <a href='https://escuderoemanuel.github.io/MahoArcaOltra/' target='_blank' rel='noopener noreferrer'> Maho Arca Oltra</a>: Professional Website made for Maho Arca Oltra [ JavaScript Vanilla ]</li>
    <li> <a href='https://escuderoemanuel.github.io/EDGuitars/' target='_blank' rel='noopener noreferrer'> ED Guitars</a>: Professional Website made for Daniel Escudero [ HTML, CSS, Bootstrap ]</li>
    <li> <a href='https://escuderoemanuel.github.io/FC-AsesorasContables/' rel='noopener noreferrer'> Asesoras Contables</a>: Professional Website [ HTML, CSS ]</li>
    <li> <a href='https://github.com/escuderoemanuel/GestionSaludDB' rel='noopener noreferrer'> Gestión Salud DB</a>: Data Base Project [ SQL, MySQL Workbench ]</li>

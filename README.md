@@ -33,7 +33,7 @@
 <h4> 📂 Some of my Projects </h4>
 <ul>
    <li> <a href='https://emanuelescudero.ar' target='_blank' rel='noopener noreferrer'> Porfolio </a>: Mi Personal Website [ ReactJs ]</li>
-   <li> <a href='https://bim-ar.vercel.com.app' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Real Project [ ReactJs ]</li>
+   <li> <a href='https://bim-ar.vercel.app' target='_blank' rel='noopener noreferrer'> BiM.ar</a>: Real Project [ ReactJs ]</li>
    <li> <a href='https://tateti-vs-machine.netlify.app/' target='_blank' rel='noopener noreferrer'> TaTeTi vs Machine </a>: Online Game [ ReactJs ]</li>
    <li> <a href='https://emanuel-tasks.netlify.app/' target='_blank' rel='noopener noreferrer'> MyTaskApp </a>: Task List App [ ReactJs ]</li>
    <li> <a href='https://portfoliofrontargprog.web.app/' target='_blank' rel='noopener noreferrer'> FullStack Portfolio</a>: Portfolio Project made for Argentina Programa [ Angular, MySQL, Java, Springboot ]</li>

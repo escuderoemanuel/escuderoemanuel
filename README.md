@@ -4,7 +4,7 @@
       <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          Emanuel
       </a>
-      <h2 align="center">FullStack Developer 👨🏻‍💻<h2>
+      <h2 align="center">FullStack Developer 👨🏻‍💻</h2>
    </h1>
    
 </div>
@@ -33,7 +33,7 @@
     <img src='https://i.ibb.co/M6j18FH/handlebars-js.png' style='width: 50px;'/>
     <img src='https://i.ibb.co/qDXPPZn/figma.png' style='width: 50px;'/>
     <img src='https://i.ibb.co/Qm44LPp/db.png' style='width: 50px;'/>
-    <img src='https://i.ibb.co/jZt5prG/node-js-icon-454x512-nztofx17.png' style='width: 50px;'/>
+    <img src='https://i.ibb.co/7XPkx1L/nodejs.png' style='width: 50px;'/>
 </p>
 
 <br />

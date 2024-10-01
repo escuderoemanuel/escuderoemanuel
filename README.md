@@ -74,7 +74,7 @@
 
    <div style="text-align: center; padding: 0;">
      <img src="https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png" style="width: 18px; display: inline-block;">
-        <a href="https://www.linkedin.com/in/emanuel-escudero/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+        <a href="https://www.linkedin.com/in/emanuelescudero-dev/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
          LinkedIn
         </a>
    </div>

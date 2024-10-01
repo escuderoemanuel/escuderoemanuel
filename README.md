@@ -62,7 +62,7 @@
 
    <div style="text-align: center; padding: 0;">
    <img src="https://i.ibb.co/2nK1zx0/Gmail-29991.png" style="width: 18px; display: inline-block;">
-        <a href="mailto:escudero.mdz@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">Gmail</a>
+        <a href="mailto:emanuelescudero.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">Gmail</a>
    </div>
 
    <div style="text-align: center; padding: 0;">

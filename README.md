@@ -1,5 +1,5 @@
 <div align="center" width="350">
-   <img align="center" width="140" src="https://i.ibb.co/zHCZ20Y/logo-Foto2023.png" />
+   <img align="center" width="140" src="https://i.ibb.co/fDztxHH/Current.png" />
    <h1 align="center">¡Hi 👋 I'm 
       <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          Emanuel

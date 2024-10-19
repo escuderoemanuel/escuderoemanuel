@@ -61,8 +61,7 @@
 <h4>Contact Me! 👇</h4>
 
    <div style="text-align: center; padding: 0;">
-   <img src="https://i.ibb.co/2nK1zx0/Gmail-29991.png" style="width: 18px; display: inline-block;">
-        <a href="mailto:emanuelescudero.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">Gmail</a>
+        <a href="mailto:emanuelescudero.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://i.ibb.co/grGWP00/Gmail-Logo-512px.png" style="width: 18px; display: inline-block;"> Gmail</a>
    </div>
 
    <div style="text-align: center; padding: 0;">

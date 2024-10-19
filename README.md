@@ -61,20 +61,20 @@
 <h4>Contact Me! 👇</h4>
 
    <div style="text-align: center; padding: 0;">
-        <a href="mailto:emanuelescudero.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://i.ibb.co/grGWP00/Gmail-Logo-512px.png" style="width: 18px; display: inline-block;"> Gmail</a>
+        <a href="https://emanuelescudero.ar" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none;"><img src="https://i.ibb.co/qNBbqSS/6678539.png" style="width: 18px; display: inline-block;"> Web Personal</a>
+   </div>
+   
+   <div style="text-align: center; padding: 0;">
+        <a href="mailto:emanuelescudero.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none;"><img src="https://i.ibb.co/grGWP00/Gmail-Logo-512px.png" style="width: 18px; display: inline-block;"> Gmail</a>
    </div>
 
    <div style="text-align: center; padding: 0;">
-     <img src="https://i.ibb.co/Z6TZgYM/Whatsapp-37229.png" style="width: 18px; display: inline-block;">
-        <a href="https://wa.me/5492612061160" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-         Whatsapp
+        <a href="https://wa.me/5492612061160" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none;"><img src="https://i.ibb.co/dMZBGp1/wtsp2.png" style="width: 18px; display: inline-block;"> Whatsapp
         </a>
    </div>
 
    <div style="text-align: center; padding: 0;">
-     <img src="https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png" style="width: 18px; display: inline-block;">
-        <a href="https://www.linkedin.com/in/emanuelescudero-dev/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-         LinkedIn
+        <a href="https://www.linkedin.com/in/emanuelescudero-dev/" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://i.ibb.co/w0vvvKQ/linkedin-socialnetwork-17441.png" style="width: 18px; display: inline-block; text-decoration: none;"> LinkedIn
         </a>
    </div>
 

@@ -9,7 +9,7 @@
    
 </div>
       
-<h4> 🤓 Programming Languages & Tools </h4>
+<h4> 🤓 My Stack </h4>
 <br />
 <p style="display: flex;">
    <img src='https://i.ibb.co/VH4bp5Y/html.png' style='width: 50px;'/>

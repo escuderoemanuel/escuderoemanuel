@@ -4,7 +4,7 @@
       <a href="https://emanuelescudero.ar" target='_blank' rel='noopener noreferrer'>
          Emanuel
       </a>
-      <h2 align="center">FullStack Developer <img align="center" width="50" src="https://i.ibb.co/Xp2KGk3/Programmer.png" /></h2>
+      <h2 align="center">Full Stack Developer <img align="center" width="50" src="https://i.ibb.co/Xp2KGk3/Programmer.png" /></h2>
    </h1>
    
 </div>
